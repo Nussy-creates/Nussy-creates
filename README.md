@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nussy-creates
+- 👋 Hi, I’m @Nussy_codes
 - 👀 I’m interested in ...  HTML, CSS and Java script
 - 🌱 I’m currently learning ...java script
 - 💞️ I’m looking to collaborate on ...on new projects 
